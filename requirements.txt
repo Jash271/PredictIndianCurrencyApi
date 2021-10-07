@@ -45,3 +45,4 @@ Werkzeug==2.0.1
 wrapt==1.12.1
 yapf==0.31.0
 
+h5py
